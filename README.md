@@ -63,6 +63,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 
 # API DE CINESTAR CON LARAVEL
+![image](https://github.com/KiwiGin/apiLogin/assets/121894859/191a3b37-f377-432c-8f1d-201f3c9a0367)
 
 
 ## License
